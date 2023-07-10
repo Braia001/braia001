@@ -9,12 +9,7 @@ I am a backend developer with extensive experience in PHP and SQL. Today, I am h
 * Databases: Proficient in designing, creating, and optimizing relational databases using MySQL, PostgreSQL, or Oracle. 
 * Version Control: Familiarity with version control systems like Git for efficient team collaboration.
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
 
-![GitHub metrics](https://metrics.lecoq.io/Braia001)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Braia001)  
-
-![Profile views](https://gpvc.arturio.dev/Braia001)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braia001)](https://github.com/anuraghazra/github-readme-stats)
 
