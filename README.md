@@ -12,6 +12,5 @@ From 🇧🇷
 * Version Control: Familiarity with version control systems like Git for efficient team collaboration.
 
 - 🔭 I’m currently working on this page.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braia001)](https://github.com/anuraghazra/github-readme-stats)
-
+- 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Braia001&bg_color=1a1a1a&color=ffffff&line=ffffff&point=7d7d7d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
