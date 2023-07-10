@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, My name is Brayan
+I am a backend developer with extensive experience in PHP and SQL. Today, I am here to share a bit about my work and skills in this field. Let's get started!
 
-<!--
-**Braia001/braia001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: 
+• PHP: Advanced proficiency in PHP language for developing robust and scalable web applications. 
+• SQL: Proficiency in complex SQL queries and database optimization.
+• Frameworks: Proven experience with popular frameworks such as Laravel, Symfony, or CodeIgniter.
+• Software Architecture: Solid knowledge of MVC (Model-View-Controller) architecture patterns and RESTful APIs. 
+• Databases: Proficient in designing, creating, and optimizing relational databases using MySQL, PostgreSQL, or Oracle. 
+• Version Control: Familiarity with version control systems like Git for efficient team collaboration.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub metrics](https://metrics.lecoq.io/Braia001)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Braia001)  
+
+![Profile views](https://gpvc.arturio.dev/Braia001)  
+
+
